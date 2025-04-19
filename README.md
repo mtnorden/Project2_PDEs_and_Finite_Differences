@@ -1,0 +1,1 @@
+Numerically evaluates the 1-D Heat Equation using the method of finite differences
